@@ -1,0 +1,11 @@
+interface:
+isFull
+isEmpty
+size()
+void addVertex(T vertex)
+void addEdge(T fromVertex, T toVertex, int weight)
+int weightIs(T fromVertex, T toVertex)
+QueueInterface<T> getToVerticies (T vertex)
+void clearMarks()
+void markVertitices()
+boolean isMarked()
